@@ -6,7 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Mikel Cortina/Scenes/Ecena1.unity
+    path: Assets/Mikel Cortina/Scenes/Escena3.unity
+    guid: af16b85901dae0745a8ed0d25951c1f8
+  - enabled: 1
+    path: Assets/Mikel Cortina/Scenes/Escena2.unity
+    guid: eb3e1dbdddf3d254787ed0c6f0811c36
+  - enabled: 1
+    path: Assets/Mikel Cortina/Scenes/Escena1.unity
     guid: ac72e0e2b138ed747839e507cf2297e0
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: da1b5e6698afe0142ad4a162ca750967, type: 2}
